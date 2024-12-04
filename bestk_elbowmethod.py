@@ -103,7 +103,7 @@ array=[1,2,3,4,5,6,7,8,9]
 pt.plot(array,WCSS,'g.-')
 
 pt.xlabel('k')
-pt.ylabel('WcSS')
+pt.ylabel('WCSS')
 pt.title('Scatter Plot of Coordinates')
 pt.xticks(array)
 pt.grid()
